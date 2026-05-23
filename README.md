@@ -43,10 +43,10 @@ Full-stack anime review platform where users can explore anime, rate titles, wri
 ## Tech Stack
 
 **Languages -** Python, C#, SQL, JavaScript  
-**AI / Machine Learning -** Scikit-learn, TensorFlow/Keras, Hugging Face Transformers, CNNs, LLMs, RAG, Embeddings, Grad-CAM  
+**AI / Machine Learning -** ML models, Fine-tuning, CNNs, OCR, LLMs, RAG, Scikit-learn, TensorFlow/Keras, Embeddings, Grad-CAM, Hugging Face Transformers  
 **Backend -** ASP.NET Core Web API, Entity Framework Core, REST APIs  
 **Frontend -** HTML, CSS, Blazor WebAssembly, Bootstrap, Streamlit  
-**Databases -** SQL Server, ChromaDB  
+**Databases -** SQL Server
 
 ---
 
