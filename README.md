@@ -6,8 +6,6 @@ Below are some of the projects I have worked on, mainly focused on AI, Machine L
 
 ---
 
----
-
 ## 🚀 Projects
 
 🌍 **Low-Resource Language Fine-Tuning Assistant (In progress)**  
