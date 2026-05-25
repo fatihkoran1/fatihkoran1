@@ -2,7 +2,7 @@
 
 ICT student focused on Artificial Intelligence. I build practical AI projects and evaluate how AI systems perform in real-world situations.
 
-Below are some of the projects I have worked on, mainly focused on Machine Learning, Deep Learning and Generative AI:
+Below are some of the projects I have worked on, mainly focused on **Machine Learning, Deep Learning and Generative AI**:
 
 ---
 
