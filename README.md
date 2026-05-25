@@ -1,8 +1,8 @@
 ## Hi, I'm Fatih
 
-ICT student focused on Artificial Intelligence, Machine Learning and Generative AI. I build practical AI projects and evaluate how AI systems perform in real-world situations.
+ICT student focused on Artificial Intelligence. I build practical AI projects and evaluate how AI systems perform in real-world situations.
 
-Below are some of the projects I have worked on, mainly focused on AI, Machine Learning and Generative AI:
+Below are some of the projects I have worked on, mainly focused on Machine Learning, Deep Learning and Generative AI:
 
 ---
 
@@ -54,11 +54,10 @@ Full-stack anime review platform where users can explore anime, rate titles, wri
 
 ## Tech Stack
 
-**Languages -** Python, C#, SQL, JavaScript  
-**AI / Machine Learning -** ML models, Fine-tuning, CNNs, OCR, LLMs, RAG, Scikit-learn, TensorFlow/Keras, Embeddings, Grad-CAM, Hugging Face Transformers  
+**Languages -** Python, C#, SQL, HTML, CSS, JavaScript  
+**AI -** Machine Learning, Deep Learning, Generative AI, Fine-tuning, CNNs, OCR, LLMs, RAG, Scikit-learn, TensorFlow/Keras, Embeddings, Grad-CAM, Hugging Face Transformers  
 **Backend -** ASP.NET Core Web API, Entity Framework Core, REST APIs  
-**Frontend -** HTML, CSS, Blazor WebAssembly, Bootstrap, Streamlit  
-**Databases -** SQL Server
+**Frontend -** Blazor WebAssembly, Bootstrap, Streamlit  
 
 ---
 
